@@ -1,4 +1,4 @@
-#Importaciones:
+#Este es el archivo de las importaciones:
 
 from archivo1 import bit_and as andd
 from archivo1 import bit_or as orr
